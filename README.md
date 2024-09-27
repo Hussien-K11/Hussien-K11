@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conduct a security audit                      |                            |
+| Conduct a security audit                      | <a href="https://github.com/Hussien-K11/Conduct-a-security-audit">Conduct a Security Audit</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -55,6 +55,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Conduct a security audit 
+- <a href="https://github.com/Hussien-K11/Conduct-a-security-audit">Conduct a Security Audit</a>
 - Detection Lab
 - SOC Automation Project

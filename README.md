@@ -12,26 +12,42 @@ This GitHub serves as my learning ground, documentation trail, and proof of prog
 
 These projects simulate real-world tasks a SOC analyst might face — from log analysis to threat profiling.
 
-- **[Log File Analysis using Python](https://github.com/Hussien-K11/Log-File-Analysis)**  
-  Python-based log inspection using regex and pattern detection. Includes detection logic, MITRE mapping, and screenshots. Written with beginners in mind.
+- **[Log File Analysis using Python](https://github.com/Hussien-K11/log-file-analysis)**  
+  Python-based log inspection using regex and pattern detection. Includes detection logic, MITRE mapping, and screenshots.
 
-- **Threat Actor Profile** *(coming soon)*  
-  A detailed profile of a real-world UK-targeting threat actor. Includes open-source intelligence, attack patterns, and SOC alert relevance.
+- **[APT29 Threat Actor Profile](https://github.com/Hussien-K11/APT29-Threat-Actor-Profile)** *(in progress)*  
+  A detailed intelligence report on Cozy Bear (APT29), aligned with SOC threat detection workflows.
 
-- **SIEM Simulation with Splunk** *(planned)*  
-  Use of open datasets to simulate ingestion, correlation, and alerting inside a SOC-style workflow.
+- **[Simple SIEM Simulation](https://github.com/Hussien-K11/Simple-SIEM-Simulation)** *(in progress)*  
+  Simulated SIEM analysis using open logs and detection rules in Jupyter format.
+
 
 <details>
   <summary><strong>More Projects</strong></summary>
 
-- **[Conduct a Security Audit](https://github.com/Hussien-K11/Conduct-a-security-audit)**  
-  Project exploring internal auditing of basic system security controls and configurations.
+- **[Incident Response Policy Review](https://github.com/Hussien-K11/Incident-Response-Policy-Review)** *(in progress)*  
+  Evaluating a sample IR policy and aligning it with NIST guidance and SOC processes.
 
-- **Detection Lab** *(in progress)*  
-  Environment for testing SIEM detection rules and log enrichment strategies.
 
-- **SOC Automation Lab** *(planned)*  
-  Use of Shuffle SOAR, TheHive, and scripting to simulate security automation and case tracking.
+</details>
+
+<details>
+  <summary><strong>Coming Soon</strong></summary>
+
+- **Incident Response Playbook**   
+  Create a practical, SOC-ready IR playbook tailored to phishing, malware, and endpoint alerts.
+
+- **Nmap & Network Visual Map**   
+  Scan and map a sample network environment, using Nmap and visualisation tools.
+
+- **Phishing Email Manual Analysis**   
+  Investigate and dissect phishing emails using headers, VirusTotal, and sandbox tools.
+
+- **Vulnerability Scan Report (OpenVAS/Nessus)**   
+  Execute a scan, identify key findings, and write a professional risk-based report.
+
+- **Password Cracking Lab** 
+  Explore brute-force and dictionary attacks using hash samples and cracking tools.
 
 </details>
 

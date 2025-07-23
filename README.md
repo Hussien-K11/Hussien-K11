@@ -13,20 +13,24 @@ This GitHub serves as my learning ground, documentation trail, and proof of prog
 These projects simulate real-world tasks a SOC analyst might face — from log analysis to threat profiling.
 
 - **[Log File Analysis using Python](https://github.com/Hussien-K11/log-file-analysis)**  
-  Python-based log inspection using regex and pattern detection. Includes detection logic, MITRE mapping, and screenshots.
+  A hands-on project simulating Tier 1 log review workflows. Focused on regex, pattern matching, and detection logic to identify signs of credential misuse and unusual activity. Built to reflect real SOC scenarios where accuracy and speed matter.
+
 
 - **[APT29 Threat Actor Profile](https://github.com/Hussien-K11/APT29-Threat-Actor-Profile)** *(in progress)*  
-  A detailed intelligence report on Cozy Bear (APT29), aligned with SOC threat detection workflows.
+  An intelligence report on APT29 (Cozy Bear), aligned with real-world MITRE tactics and open-source data. Focused on mapping threat behaviour, IOCs, and implications for UK-based organisations — designed to simulate analyst-led threat briefings.
 
-- **[Simple SIEM Simulation](https://github.com/Hussien-K11/Simple-SIEM-Simulation)** *(in progress)*  
-  Simulated SIEM analysis using open logs and detection rules in Jupyter format.
+
+- **[Splunk Cloud SIEM Simulation](https://github.com/Hussien-K11/Simple-SIEM-Simulation)** *(in progress)*  
+  A simulation of SIEM-based alert creation and triage using Splunk Cloud. Includes log ingestion, correlation rule design, and analyst-style responses to synthetic alerts. Designed to reflect foundational SOC workflows in a live SIEM environment.
+
 
 
 <details>
   <summary><strong>More Projects</strong></summary>
 
 - **[Incident Response Policy Review](https://github.com/Hussien-K11/Incident-Response-Policy-Review)** *(in progress)*  
-  Evaluating a sample IR policy and aligning it with NIST guidance and SOC processes.
+  A critical review of a sample IR policy based on NIST standards. Includes documentation breakdown, risk-based critique, and real-world SOC alignment. Written from the perspective of a junior analyst validating organisational readiness.
+
 
 
 </details>

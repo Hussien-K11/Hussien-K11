@@ -1,4 +1,7 @@
 # Hussien Kofi – Cybersecurity Learner & Future SOC Analyst
+![Profile Views](https://komarev.com/ghpvc/?username=Hussien-K11&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Hussien-K11?label=Follow&style=social)
+
 
 ## 1. Introduction
 

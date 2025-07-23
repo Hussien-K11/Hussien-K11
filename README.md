@@ -92,6 +92,13 @@ Each project here reflects a deliberate step forward: identifying a gap, explori
 This profile is more than a portfolio; it’s a map of where I’ve been and where I’m heading. If you value curiosity, discipline, and practical learning, you’ll find that spirit woven throughout every repo here.
 
 ---
+## 7. Why Cybersecurity?
+
+Cybersecurity isn’t just a career pivot for me — it’s a deliberate commitment to protecting systems, people, and data in a world that depends on digital trust. My background in customer service has taught me how to listen, adapt, and act under pressure — the same qualities that define a responsive analyst in a SOC environment.
+
+I’m drawn to this field because of its urgency and impact. Every log, alert, or indicator tells a story — and I want to be the person who notices, investigates, and responds. I’m not just learning tools; I’m training to think like a defender, to act like one, and to grow into a professional that teams can rely on.
+
+---
 
 ## Contact
 

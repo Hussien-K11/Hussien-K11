@@ -31,7 +31,7 @@ These projects simulate real-world tasks a SOC analyst might face — from log a
 <details>
   <summary><strong>More Projects</strong></summary>
 
-- **[Incident Response Policy Review](https://github.com/Hussien-K11/Incident-Response-Policy-Review)** *(in progress)*  
+- **[Incident Response Policy Review](https://github.com/Hussien-K11/Incident-Response-Policy-Review)**  
   A critical review of a sample IR policy based on NIST standards. Includes documentation breakdown, risk-based critique, and real-world SOC alignment. Written from the perspective of a junior analyst validating organisational readiness.
 
 

@@ -109,7 +109,7 @@ Git, GitHub Projects, Excel, SQL (basic), Google Workspace
 
 ## 6. About Me
 
-I'm Hussien Kofi based in Northampton, UK focused, methodical, and fully committed to becoming a skilled SOC Analyst. I thrive in structured, high-responsibility environments and approach challenges with consistency, clarity, and purpose.
+I'm Hussien Kofi based in the UK, I'm focused, methodical, and fully committed to becoming a skilled SOC Analyst. I thrive in structured, high-responsibility environments and approach challenges with consistency, clarity, and purpose.
 
 Each project in this profile represents a deliberate step forward not just in technical knowledge, but in thinking like a defender. I prioritise documentation, process, and critical reasoning the skills that make analysts effective under pressure.
 

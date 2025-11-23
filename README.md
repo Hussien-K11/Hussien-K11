@@ -5,7 +5,7 @@
 
 ## 1. Introduction
 
-Hello, I'm Hussien Kofi — a cybersecurity learner focused on detection, analysis, and threat response. I'm building a portfolio that reflects my commitment to practical security knowledge, clear communication, and structured, real-world learning.
+Hello, I'm Hussien Kofi a cybersecurity learner focused on detection, analysis, and threat response. I'm building a portfolio that reflects my commitment to practical security knowledge, clear communication, and structured, real-world learning.
 
 This GitHub serves as my learning ground, documentation trail, and proof of progress as I prepare for a Tier 1 SOC Analyst role.
 
@@ -13,14 +13,14 @@ This GitHub serves as my learning ground, documentation trail, and proof of prog
 
 ## 2. Featured Projects
 
-These projects simulate real-world tasks a SOC analyst might face — from log analysis to threat profiling.
+These projects simulate real-world tasks a SOC analyst might face from log analysis to threat profiling.
 
 - **[Log File Analysis using Python](https://github.com/Hussien-K11/log-file-analysis)**  
   A hands-on project simulating Tier 1 log review workflows. Focused on regex, pattern matching, and detection logic to identify signs of credential misuse and unusual activity. Built to reflect real SOC scenarios where accuracy and speed matter.
 
 
 - **[APT29 Threat Actor Profile](https://github.com/Hussien-K11/APT29-Threat-Actor-Profile)** *(in progress)*  
-  An intelligence report on APT29 (Cozy Bear), aligned with real-world MITRE tactics and open-source data. Focused on mapping threat behaviour, IOCs, and implications for UK-based organisations — designed to simulate analyst-led threat briefings.
+  An intelligence report on APT29 (Cozy Bear), aligned with real-world MITRE tactics and open-source data. Focused on mapping threat behaviour, IOCs, and implications for UK-based organisations designed to simulate analyst-led threat briefings.
 
 
 - **[Splunk Cloud SIEM Simulation](https://github.com/Hussien-K11/Simple-SIEM-Simulation)** *(in progress)*  
@@ -62,7 +62,7 @@ These projects simulate real-world tasks a SOC analyst might face — from log a
 
 ## 3. SOC Skill Roadmap
 
-This roadmap reflects my progression toward a Tier 1 SOC Analyst role. Each phase aligns with real-world responsibilities in security operations — from phishing triage and endpoint investigation to detection logic and documentation. Every project is chosen to reinforce a key capability, build muscle memory, and simulate actual workflows found in modern SOC environments.
+This roadmap reflects my progression toward a Tier 1 SOC Analyst role. Each phase aligns with real-world responsibilities in security operations from phishing triage and endpoint investigation to detection logic and documentation. Every project is chosen to reinforce a key capability, build muscle memory, and simulate actual workflows found in modern SOC environments.
 
 | Phase | Focus Area                            | Projects                                                | Status        |
 |-------|----------------------------------------|---------------------------------------------------------|---------------|
@@ -80,7 +80,7 @@ This roadmap reflects my progression toward a Tier 1 SOC Analyst role. Each phas
 | 11    | MITRE ATT&CK Mapping                   | ATT&CK Matrix Overlay + IOC Tables *(Planned)*          | 🔜 Planned     |
 | 12    | SOC Metrics & Dashboards               | Mock SOC Dashboard (KPIs, Triage Times) *(Planned)*     | 🔜 Planned     |
 
-Each phase was designed with purpose. I'm not just learning tools — I'm learning workflows, judgement, and how to operate like a real SOC analyst.
+Each phase was designed with purpose. I'm not just learning tools I'm learning workflows, judgement, and how to operate like a real SOC analyst.
 
 
 ---
@@ -109,27 +109,27 @@ Git, GitHub Projects, Excel, SQL (basic), Google Workspace
 
 ## 6. About Me
 
-I'm Hussien Kofi — based in Northampton, UK — focused, methodical, and fully committed to becoming a skilled SOC Analyst. I thrive in structured, high-responsibility environments and approach challenges with consistency, clarity, and purpose.
+I'm Hussien Kofi based in Northampton, UK focused, methodical, and fully committed to becoming a skilled SOC Analyst. I thrive in structured, high-responsibility environments and approach challenges with consistency, clarity, and purpose.
 
-Each project in this profile represents a deliberate step forward — not just in technical knowledge, but in thinking like a defender. I prioritise documentation, process, and critical reasoning — the skills that make analysts effective under pressure.
+Each project in this profile represents a deliberate step forward not just in technical knowledge, but in thinking like a defender. I prioritise documentation, process, and critical reasoning the skills that make analysts effective under pressure.
 
 
 ---
 
 ## 7. Final Thoughts
 
-I’m not just learning cybersecurity — I’m actively building the habits, mindset, and hands-on skills of someone who will thrive in a fast-paced SOC environment.
+I’m not just learning cybersecurity I’m actively building the habits, mindset, and hands-on skills of someone who will thrive in a fast-paced SOC environment.
 
-Each project here reflects a deliberate step forward: identifying a gap, exploring a tool, writing clean documentation, and thinking like a defender. I believe in starting small, improving relentlessly, and learning in public — because that’s how real security professionals grow.
+Each project here reflects a deliberate step forward: identifying a gap, exploring a tool, writing clean documentation, and thinking like a defender. I believe in starting small, improving relentlessly, and learning in public because that’s how real security professionals grow.
 
 This profile is more than a portfolio; it’s a map of where I’ve been and where I’m heading. If you value curiosity, discipline, and practical learning, you’ll find that spirit woven throughout every repo here.
 
 ---
 ## 8. Why Cybersecurity?
 
-Cybersecurity isn’t just a career pivot for me — it’s a deliberate commitment to protecting systems, people, and data in a world that depends on digital trust. My background in customer service has taught me how to listen, adapt, and act under pressure — the same qualities that define a responsive analyst in a SOC environment.
+Cybersecurity isn’t just a career pivot for me it’s a deliberate commitment to protecting systems, people, and data in a world that depends on digital trust. My background in customer service has taught me how to listen, adapt, and act under pressure the same qualities that define a responsive analyst in a SOC environment.
 
-I’m drawn to this field because of its urgency and impact. Every log, alert, or indicator tells a story — and I want to be the person who notices, investigates, and responds. I’m not just learning tools; I’m training to think like a defender, to act like one, and to grow into a professional that teams can rely on.
+I’m drawn to this field because of its urgency and impact. Every log, alert, or indicator tells a story and I want to be the person who notices, investigates, and responds. I’m not just learning tools; I’m training to think like a defender, to act like one, and to grow into a professional that teams can rely on.
 
 ---
 
@@ -141,4 +141,4 @@ I welcome opportunities to connect with professionals, recruiters, or fellow lea
 - 🔗 LinkedIn: [linkedin.com/in/hussien-kofi-99a012330](https://www.linkedin.com/in/hussien-kofi-99a012330)
 - 🧪 GitHub: [github.com/Hussien-K11](https://github.com/Hussien-K11)
 
-Whether you have feedback, collaboration ideas, or just want to talk shop — I’m always open to a conversation.
+Whether you have feedback, collaboration ideas, or just want to talk shop I’m always open to a conversation.

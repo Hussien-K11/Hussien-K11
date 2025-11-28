@@ -19,7 +19,7 @@ These projects simulate real-world tasks a SOC analyst might face from log analy
   A hands-on project simulating Tier 1 log review workflows. Focused on regex, pattern matching, and detection logic to identify signs of credential misuse and unusual activity. Built to reflect real SOC scenarios where accuracy and speed matter.
 
 
-- **[APT29 Threat Actor Profile](https://github.com/Hussien-K11/APT29-Threat-Actor-Profile)** *(in progress)*  
+- **[APT29 Threat Actor Profile](https://github.com/Hussien-K11/APT29-Threat-Actor-Profile)**  
   An intelligence report on APT29 (Cozy Bear), aligned with real-world MITRE tactics and open-source data. Focused on mapping threat behaviour, IOCs, and implications for UK-based organisations designed to simulate analyst-led threat briefings.
 
 
